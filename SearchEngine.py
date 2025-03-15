@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 import google.generativeai as genai  # Gemini API
 import speech_recognition as sr  # Voice Search
 import json
