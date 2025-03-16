@@ -1,7 +1,4 @@
-beautifulsoup4
 streamlit
 requests
-beautifulsoup4
 google-generativeai
-speechrecognition
-PyAudio
+uuid
